@@ -1,2 +1,2 @@
 # Projeto Curso Git/Git Hub pela Digital Innovation One
-## Primeiros comandos do Git 
+#Objetivo: Praticar os primeiros comandos do Git/GitHub 
